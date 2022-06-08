@@ -13,7 +13,7 @@ def print_restart(n):
 
 def intro():
     print_pause("Adam is prisoner and his execution is planned for today")
-    print_pause("He  decided to escape the prison and have freedom")
+    print_pause("He decided to escape the prison and have freedom")
     print_pause("He agreed with a friend to drill a tunnel to escape")
     print_pause("Adam will bring the equipment and his friend will help him")
     print_pause("You should steal shovels and torches to help him escaping the prison")
